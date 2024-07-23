@@ -5,7 +5,7 @@
 📫 How to reach me:  
 - Email: lalchandteli13@gmail.com  
 - LinkedIn: [Lal Chand Teli](https://www.linkedin.com/in/lal-chand-teli-758961170/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- GitHub: [@lal-chand-teli](https://github.com/LALCHANDTELI)  
+- 2nd GitHub: [@lal-chand-teli](https://github.com/LALCHANDTELI)  
 
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I can code in three different languages simultaneously and love solving complex algorithmic challenges!
